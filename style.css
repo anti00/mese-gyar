@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    background-color: #95BBD6;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+header{
+    background-color: #5E95BC;
+    border-bottom-left-radius: 4%;
+    border-bottom-right-radius: 4%;
+}
+
+
+header > p{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 48px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    margin: 0px;
+}
+
+#konyv{
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    padding: 20px;
+    margin: 0px;
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+}
+
+
+#box
+{
+    width: 100%;
+    height: 100%;
+    position: relative; 
+}
+
+#felho{
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+    filter: brightness(100);
+    
+}
+
